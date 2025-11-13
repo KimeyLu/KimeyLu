@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @KimeyLu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @KimeyLu ¿?
+- 👀 I’m interested in ¿?
+- 🌱 I’m currently learning ¿? 
+- 💞️ I’m looking to collaborate on ¿?
+- 📫 How to reach me ¿?
+- 😄 Pronouns: ¿?
+- ⚡ Fun fact: ¿?
 
 <!---
 KimeyLu/KimeyLu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
