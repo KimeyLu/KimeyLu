@@ -2,13 +2,14 @@
 
 ### $${\color{green}//}$$ 👀 I’m interested in:  
 
-      Game Art & Development.        
-      Generative Art.                
-      Web & App design.           
-      Open Source Enviroments.       
-      Projects that help people.      
-      Code that can even be run 
-      on calculators.               
+${\color{green}/*}$
+Game Art & Development.        
+Generative Art.                
+Web & App design.           
+Open Source Enviroments.       
+Projects that help people.      
+Code that can even be run 
+on calculators.               
 
 
 ### $${\color{green}//}$$ 🌱 I’m currently learning:  
