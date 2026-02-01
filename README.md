@@ -1,23 +1,26 @@
 ### // 👋 Hi! I’m @KimeyLu. :shipit:
 
 ### // 👀 I’m interested in:<br/>
-$${\color{green}Green}$$
-<code style="color : green">/*</code>    <br/>
+$${\color{green}/*}$$
+     <br/>
       Game Art & Development.        <br/>
       Generative Art.                <br/>
       Web and App design.            <br/>
       Open Source Enviroments.       <br/>
       Projects that help people      <br/>
       Code that can even be run 
-      on calculators                  <br/>                
-*/
+      on calculators                  <br/> 
+      
+$${\color{green}*/}$$
 
 ### // 🌱 I’m currently learning:<br/>
-/*   <br/> 
+$${\color{green}/*}$$
+      <br/> 
       Blender, Krita, Godot.                        <br/>
       Software development with C.   <br/>
       Git and other tools. <br/>
-*/<br/>
+
+$${\color{green}*/}$$
 
 ### // ⚡ Fun... emote!: 
 <br/>
