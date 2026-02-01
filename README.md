@@ -1,6 +1,6 @@
-##// 👋 Hi! I’m @KimeyLu. :shipit:
+## // 👋 Hi! I’m @KimeyLu. :shipit:
 
-##// 👀 I’m interested in:<br/>
+## // 👀 I’m interested in:<br/>
 /*    Game Art & Development.        */<br/>
 /*    Generative Art.                */<br/>
 /*    Web and App design.            */<br/>
@@ -9,14 +9,14 @@
 /*    Code that can even be run 
       on calculators                 */
 
-##// 🌱 I’m currently learning:<br/>
+## // 🌱 I’m currently learning:<br/>
 /*    Blender.                       */<br/>
 /*    Krita                          */<br/>
 /*    Godot.                         */<br/>
 /*    Software development with C.   */<br/>
 
 ##// ⚡ Fun... emote!: <br/>
-       =/:) 8
+       =/:) 8 /<br/>
        (he has a hat and a bow tie)
 
 <!---
