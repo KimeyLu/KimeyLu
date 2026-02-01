@@ -1,13 +1,13 @@
 ### // 👋 Hi! I’m @KimeyLu. :shipit:
 
-### // 👀 I’m interested in:<br/>
+### // 👀 I’m interested in:  
 
-     <br/>
-      Game Art & Development.        <br/>
-      Generative Art.                <br/>
-      Web and App design.            <br/>
-      Open Source Enviroments.       <br/>
-      Projects that help people      <br/>
+     
+      Game Art & Development.        
+      Generative Art.                
+      Web and App design.           
+      Open Source Enviroments.       
+      Projects that help people      
       Code that can even be run 
       on calculators               
 
