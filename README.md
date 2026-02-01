@@ -19,7 +19,7 @@
       Software development with C.   
       Git and other tools. 
 
-### // ⚡ Fun... emote!: 
+### $${\color{green}//}$$ ⚡ Fun... emote!: 
 <br/>
        =/:) 8 <br/>
        (he has a hat and a bow tie)
