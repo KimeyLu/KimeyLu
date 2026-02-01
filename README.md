@@ -1,6 +1,7 @@
 ### // 👋 Hi! I’m @KimeyLu. :shipit:
 
 ### // 👀 I’m interested in:<br/>
+$${\color{green}Green}$$
 <code style="color : green">/*</code>    <br/>
       Game Art & Development.        <br/>
       Generative Art.                <br/>
