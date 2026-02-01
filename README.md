@@ -17,7 +17,7 @@
 
 ### // ⚡ Fun... emote!: 
 <br/>
-       =/:) 8 /<br/>
+       =/:) 8 <br/>
        (he has a hat and a bow tie)
 
 <!---
