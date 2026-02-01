@@ -2,14 +2,16 @@
 
 ### $${\color{green}//}$$ 👀 I’m interested in:  
 
-${\color{green}/*}$
+${\color{green}/*}$  
 Game Art & Development.        
 Generative Art.                
 Web & App design.           
 Open Source Enviroments.       
 Projects that help people.      
 Code that can even be run 
-on calculators.               
+on calculators.  
+
+${\color{green}*/}$
 
 
 ### $${\color{green}//}$$ 🌱 I’m currently learning:  
