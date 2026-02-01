@@ -1,7 +1,8 @@
 ### // 👋 Hi! I’m @KimeyLu. :shipit:
 
 ### // 👀 I’m interested in:<br/>
-/*    Game Art & Development.        <br/>
+/*    <br/>
+      Game Art & Development.        <br/>
       Generative Art.                <br/>
       Web and App design.            <br/>
       Open Source Enviroments.       <br/>
@@ -10,7 +11,8 @@
       on calculators                 */
 
 ### // 🌱 I’m currently learning:<br/>
-/*    Blender.                         <br/>
+/*   <br/> 
+      Blender.                         <br/>
       Krita                            <br/>
       Godot.                           <br/>
       Software development with C.   */<br/>
