@@ -12,11 +12,11 @@
       on calculators               
 
 
-### // 🌱 I’m currently learning:<br/>
+### $${\color{green}//}$$ 🌱 I’m currently learning:<br/>
 
-      <br/> 
-      Blender, Krita, Godot.                        <br/>
-      Software development with C.   <br/>
+       
+      Blender, Krita, Godot.                        
+      Software development with C.   
       Git and other tools. 
 
 ### // ⚡ Fun... emote!: 
