@@ -1,6 +1,6 @@
-// 👋 Hi! I’m @KimeyLu.
+##// 👋 Hi! I’m @KimeyLu. :shipit:
 
-// 👀 I’m interested in:<br/>
+##// 👀 I’m interested in:<br/>
 /*    Game Art & Development.        */<br/>
 /*    Generative Art.                */<br/>
 /*    Web and App design.            */<br/>
@@ -9,13 +9,15 @@
 /*    Code that can even be run 
       on calculators                 */
 
-// 🌱 I’m currently learning:<br/>
+##// 🌱 I’m currently learning:<br/>
 /*    Blender.                       */<br/>
 /*    Krita                          */<br/>
 /*    Godot.                         */<br/>
 /*    Software development with C.   */<br/>
 
-// ⚡ Fun fact: 
+##// ⚡ Fun... emote!: <br/>
+       =/:) 8
+       (he has a hat and a bow tie)
 
 <!---
 KimeyLu/KimeyLu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
