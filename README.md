@@ -9,8 +9,7 @@ $${\color{green}/*}$$
       Open Source Enviroments.       <br/>
       Projects that help people      <br/>
       Code that can even be run 
-      on calculators                  <br/> 
-      
+      on calculators               
 $${\color{green}*/}$$
 
 ### // 🌱 I’m currently learning:<br/>
@@ -18,8 +17,7 @@ $${\color{green}/*}$$
       <br/> 
       Blender, Krita, Godot.                        <br/>
       Software development with C.   <br/>
-      Git and other tools. <br/>
-
+      Git and other tools. 
 $${\color{green}*/}$$
 
 ### // ⚡ Fun... emote!: 
