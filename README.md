@@ -1,11 +1,11 @@
 // 👋 Hi! I’m @KimeyLu.
 
 // 👀 I’m interested in:
-/*    Game Art & Development.        */
-/*    Generative Art.                */
-/*    Web and App design.            */
-/*    Open Source Enviroments.       */
-/*    Projects that help people      */
+/*    Game Art & Development.        */<br/>
+/*    Generative Art.                */<br/>
+/*    Web and App design.            */<br/>
+/*    Open Source Enviroments.       */<br/>
+/*    Projects that help people      */<br/>
 /*    Code that can even be run 
       on calculators                 */
 
