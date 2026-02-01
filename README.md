@@ -4,7 +4,7 @@
 
       Game Art & Development.        
       Generative Art.                
-      Web and App design.           
+      Web & App design.           
       Open Source Enviroments.       
       Projects that help people.      
       Code that can even be run 
@@ -15,7 +15,7 @@
 
       Blender, Krita, Godot.                        
       Software development with C.   
-      Git and other tools. 
+      Git & other tools. 
 
 ### $${\color{green}//}$$ ⚡ Fun... emote!: 
 <br/>
