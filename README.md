@@ -1,6 +1,6 @@
 ### // 👋 Hi! I’m @KimeyLu. :shipit:
 
-### $${\color{green}Green}$$// 👀 I’m interested in:  
+### $${\color{green}//}$$ 👀 I’m interested in:  
 
      
       Game Art & Development.        
