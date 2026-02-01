@@ -10,10 +10,10 @@
       on calculators                 */
 
 // 🌱 I’m currently learning:
-/*    Blender.                       */
-/*    Krita                          */
-/*    Godot.                         */
-/*    Software development with C.   */  
+/*    Blender.                       */<br/>
+/*    Krita                          */<br/>
+/*    Godot.                         */<br/>
+/*    Software development with C.   */<br/>
 
 // ⚡ Fun fact: 
 
