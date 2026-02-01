@@ -3,22 +3,25 @@
 ### $${\color{green}//}$$ 👀 I’m interested in:  
 
 ${\color{green}/*}$  
-Game Art & Development.        
-Generative Art.                
-Web & App design.           
-Open Source Enviroments.       
-Projects that help people.      
-Code that can even be run 
-on calculators.  
+* Game Art & Development.        
+* Generative Art.                
+* Web & App design.           
+* Open Source Enviroments.       
+* Projects that help people.      
+* Code that can even be run on calculators.  
 
 ${\color{green}*/}$
 
 
 ### $${\color{green}//}$$ 🌱 I’m currently learning:  
 
-      Blender, Krita, Godot.                        
-      Software development with C.   
-      Git & other tools. 
+${\color{green}/*}$  
+* Blender, Krita, Godot.                        
+* Software development with C.   
+* Git & other tools.  
+
+${\color{green}*/}$
+
 
 ### $${\color{green}//}$$ ⚡ Fun... emote!: 
 <br/>
