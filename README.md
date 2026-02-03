@@ -1,4 +1,4 @@
-### $${\color{green}//}$$ 👋 Hi! I’m @KimeyLu. :shipit:
+### $${\color{green}// 👋 Hi! I’m @KimeyLu.}$$  :shipit:
 
 ### $${\color{green}//}$$ 👀 I’m interested in:  
 
