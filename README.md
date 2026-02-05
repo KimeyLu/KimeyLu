@@ -17,8 +17,7 @@ ${\color{green}*/}$
 
 ${\color{green}/*}$  
 * Blender, Krita, Godot.                        
-* Software development with C.   
-* Git & other tools.  
+* Software development tools.
 
 ${\color{green}*/}$
 
